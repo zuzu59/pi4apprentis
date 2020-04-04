@@ -1,6 +1,9 @@
 #!/bin/bash
+# Crée les comptes des utilisateurs et copie leur certificat SSH
 
-set -e -x
+#zf200404.1249
+
+#set -e -x
 
 # apt-get update && apt-get upgrade -y
 
